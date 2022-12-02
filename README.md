@@ -28,4 +28,4 @@ The model was not able to achieve the target performance of over 75%.
 Some of the steps I took to try and make the model more accurate were adding hidden layers,changing the number of neurons in each layer, changing the activation type, increasing/decreasing the number of epochs. 
 
 ## Summary:
-The models accuracy ended up being 72.8% - we started with a data set and tried to predict whether or not the project would be successful on all of the features that we used after dropping two features that we figured to be irrelevant. Although I did not get to the accuracy of 75% that I wanted it is possible the reason for this is we may have had to drop more features which may have affected how good the neural network actually is. The best way to increase the accuracy of your model is to have more data. If we have solid data added to this model, the accuracy of this model will be much more concrete.
+The models accuracy ended up being 70.9% - we started with a data set and, and dropped 2 columns, which seems to not help our analysis. I couldn't get the accuracy of 75% as asked in the challenge. I think,to increase the accuracy of this model, we need to have more data.
